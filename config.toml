@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://GalileoFigaro.net/"
+baseURL = "https://galileofigaro.net/"
 title = "Hugo Theme MemE"
 languageCode = "en"
 hasCJKLanguage = false
