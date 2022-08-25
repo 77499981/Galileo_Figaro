@@ -2,7 +2,7 @@
 # Site Settings
 
 baseURL = "https://galileofigaro.net/"
-title = "Hugo Theme MemE"
+title = "Galileo Figaro!"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
